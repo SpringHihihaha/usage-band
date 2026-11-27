@@ -1,0 +1,7 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Live 5-hour limit, weekly limit and context % above the prompt",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
